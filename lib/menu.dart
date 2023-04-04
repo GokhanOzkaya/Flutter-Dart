@@ -1,6 +1,6 @@
 import 'dart:math';
 import 'package:neyesem/AnaYemek.dart';
-
+//BUNUN BİR YENİ COMMİT OLDUĞUNU GÖSTEREN İŞARET
 class menu {
   String cesit='';
   int _corbaRandomNo = 0;
